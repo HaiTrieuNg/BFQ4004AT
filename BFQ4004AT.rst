@@ -15,6 +15,13 @@ Date       Version Description
 1 Command Description
 =====================
 
+Some :red:`red colored text`.
+ 
+Some :blue:`blue colored text`. Not blue anymore.
+ 
+Some :big:`big text`.
+
+
 Each command set contains four types of AT commands：
 
 +-----------------+--------------+-----------------------------------+
